@@ -1,4 +1,4 @@
 #!/bin/sh
 
 x-www-browser http://localhost:2013/ &
-XDEBUG_CONFIG="ide=celltrak-xdebug" php -S 0.0.0.0:2013
+XDEBUG_CONFIG="ide=celltrak-xdebug" php -S 0.0.0.0:1234 index.php

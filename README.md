@@ -10,6 +10,10 @@ Workflow
 3. During a POST action, create or modify the data.json.
 4. Lather, rinse, and repeat.
 
+UPDATE
+------
+This is now a successful proof of concept.  I can use the built-in PHP web server to populate a form and then save out a data.json file.
+
 Ideas
 -----
 1. Can this be converted into a PHAR file?
