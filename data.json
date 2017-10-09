@@ -1,1 +1,24 @@
-{"date":"2013-09-08","version":1,"sermon":{"type":"sermon","date":"2013-09-08","scripture":"Jonah 4:5-11","reader":"Pastor Jeff Holwerda","series":"Book of Jonah","title":"The Anti-Missionary Missionary","preacher":"Jim Hansen","engineer":"David Thom","processor":"Kevin Gustavson","notes":"My second comment!"},"ace":{"type":"ace","date":"2013-09-08","series":"2013 ACE Fall Series","title":"Hansen Missions Update","teacher":"Jim Hansen","comment":"Jim and Kathy Hansen are missionaries with SIM in Bolivia."}}
+{
+  "date": "2013-09-08",
+  "version": 1,
+  "sermon": {
+    "type": "sermon",
+    "date": "2013-09-08",
+    "scripture": "Jonah 4:5-11",
+    "reader": "Pastor Jeff Holwerda",
+    "series": "Book of Jonah",
+    "title": "The Anti-Missionary Missionary",
+    "preacher": "Jim Hansen",
+    "engineer": "David Thom",
+    "processor": "Kevin Gustavson",
+    "notes": "My second comment!"
+  },
+  "ace": {
+    "type": "ace",
+    "date": "2013-09-08",
+    "series": "2013 ACE Fall Series",
+    "title": "Hansen Missions Update",
+    "teacher": "Jim Hansen",
+    "comment": "Jim and Kathy Hansen are missionaries with SIM in Bolivia."
+  }
+}
